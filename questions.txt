@@ -1,0 +1,77 @@
+#!/bin/bash
+num=$1
+fact=1
+while [ $num - gt 1 ]
+do
+fact=`expr $fact
+
+
+
+#!/bin/bash
+fact=1
+num=$1
+while [ $num -gt 0]
+do
+  fact=`expr $fact*num`
+  num= `expr $num-1`
+done
+ echo "factorial of $1 is $fact
+
+#!/bin/bash
+linenum=1
+while read line
+do
+from devops7676 devops7676 to everyone:    7:45 PM
+What is DevOps?
+
+from devops7676 devops7676 to everyone:    7:45 PM
+Why DevOps, Benefits?
+
+from devops7676 devops7676 to everyone:    7:45 PM
+Can DevOps work with Agile Methodolgies?
+
+from devops7676 devops7676 to everyone:    7:46 PM
+Can you explain the software delivery lifecycle?
+
+from devops7676 devops7676 to everyone:    7:46 PM
+Can the software delivery be automated?
+
+from devops7676 devops7676 to everyone:    7:46 PM
+Can you explain the end to end CICD
+
+from devops7676 devops7676 to everyone:    7:46 PM
+What is different between CI And CD
+
+from devops7676 devops7676 to everyone:    7:46 PM
+What is the difference between continous delivery and continous deployment
+Understanding customer requirements and project KPIs
+Implementing various development, testing, automation tools, and IT infrastructure
+Planning the team structure, activities, and involvement in project management activities.
+Managing stakeholders and external interfaces
+Setting up tools and required infrastructure
+Defining and setting development, test, release, update, and support processes for DevOps operation
+Have the technical skill to review, verify, and validate the software code developed in the project.
+Troubleshooting techniques and fixing the code bugs
+Monitoring the processes during the entire lifecycle for its adherence and updating or creating new processes for improvement and minimizing the wastage
+Encouraging and building automated processes wherever possible
+Identifying and deploying cybersecurity measures by continuously performing vulnerability assessment and risk management
+Incidence management and root cause analysis
+Coordination and communication within the team and with customers
+Selecting and deploying appropriate CI/CD tools
+Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline)
+Mentoring and guiding the team members 
+Monitoring and measuring customer experience and KPIs
+Managing periodic reporting on the progress to the management and the customer
+Next, let us look into the skills that are a part of the DevOps engineer job description.
+
+Essential Skills for a DevOps Engineer
+A DevOps Engineer’s role requires technical skills in the development cycle and operations skills for maintenance and support. Computer Science or Computer Technology graduates can bring some of the technical skills necessary to become a DevOps engineer. However, the skills required for managing the operations usually come through the experience or by enrolling in specific development programs, which can help further the career in the set direction. 
+
+Pre-requisite skills required for a DevOps Engineer role include:
+
+Experience working on Linux based infrastructure
+Excellent understanding of Ruby, Python, Perl, and Java
+Configuration and managing databases such as MySQL, Mongo
+Excellent troubleshooting
+Working knowledge of various tools, open-source technologies, and cloud services
+Awareness of critical concepts in DevOps and Agile principles
